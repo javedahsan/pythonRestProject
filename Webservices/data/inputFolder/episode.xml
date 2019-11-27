@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ADI>
+	<Metadata>
+		<AMS Asset_Name="" Asset_ID="CSCO1000000001001001" Asset_Class="package" Provider="CSCO" Provider_ID="cisco.com" Product="" Version_Minor="0" Version_Major="1" Description="" Creation_Date="2006-09-26" Verb=""/>
+		<App_Data App="VOD" Name="Metadata_Spec_Version" Value="Cisco_ADI_v1.1.1"/>
+	</Metadata>
+	<Asset>
+		<Metadata>
+			<AMS Asset_Name="" Asset_ID="CSCO1100000001001001" Asset_Class="title" Provider="CSCO" Provider_ID="cisco.com" Product="" Version_Minor="0" Version_Major="1" Description="" Creation_Date="2006-09-26" Verb=""/>
+			<App_Data App="VOD" Name="Type" Value="title"/>
+			<App_Data App="VOD" Name="Title" Value="Heroes"/>
+			<App_Data App="VOD" Name="Title" X_Lang="deu" Value="Helden"/>
+			<App_Data App="VOD" Name="Title_Sort_Name" Value="heroes"/>
+			<App_Data App="VOD" Name="Title_Sort_Name" X_Lang="deu" Value="helden"/>
+			<App_Data App="VOD" Name="Summary_Short" Value="Introduction to our heroes and villans."/>
+			<App_Data App="VOD" Name="Summary_Short" X_Lang="deu" Value="Einführung in unsere Helden und Vilans."/>
+			<App_Data App="VOD" Name="Summary_Medium" Value="Introduction to our heroes and villains and how they came to be."/>
+			<App_Data App="VOD" Name="Summary_Medium" X_Lang="deu" Value="Einführung in unsere Helden und Schurken und wie sie entstanden sind."/>
+			<App_Data App="VOD" Name="Summary_Long" Value="Introduction to our heroes and villains and how they came to be."/>
+			<App_Data App="VOD" Name="Summary_Long" X_Lang="deu" Value="Einführung in unsere Helden und Schurken und wie sie entstanden sind."/>
+			<App_Data App="VOD" Name="Episode_Name" Value="Genesis"/>
+			<App_Data App="VOD" Name="Episode_Name" X_Lang="deu" Value="Genesis"/>
+			<App_Data App="VOD" Name="Advisories" Value="Violence"/>
+			<App_Data App="VOD" Name="Advisories" Value="Strong Language"/>
+			<App_Data App="VOD" Name="Genre" Value="Science Fiction"/>
+			<App_Data App="VOD" Name="Genre" Value="Action"/>
+			<App_Data App="VOD" Name="Audience" Value="General"/>
+			<App_Data App="VOD" Name="Closed_Captioning" Value="N"/>
+			<App_Data App="VOD" Name="Run_Time" Value="01:00:00"/>
+			<App_Data App="VOD" Name="Display_Run_Time" Value="01:00"/>
+			<App_Data App="VOD" Name="Category" Value="SciFi"/>
+			<App_Data App="VOD" Name="Category" Value="Action"/>
+			<App_Data App="VOD" Name="Category" Value="SciFi/Action"/>
+			<App_Data App="VOD" Name="Season_Premiere" Value="Y"/>
+			<App_Data App="VOD" Name="Season_Finale" Value="N"/>
+			<App_Data App="VOD" Name="Year" Value="2006"/>
+			<App_Data App="VOD" Name="Actors" Value="Panettiere,Hayden"/>
+			<App_Data App="VOD" Name="Actors" Value="Pasdar,Adrian"/>
+			<App_Data App="VOD" Name="Actors" Value="Oka,Masi"/>
+			<App_Data App="VOD" Name="Actors" Value="Grunberg,Greg"/>
+			<App_Data App="VOD" Name="Director" Value="Beeman,Greg"/>
+			<App_Data App="VOD" Name="Producers" Value="Beeman,Greg"/>
+			<App_Data App="VOD" Name="Studio" Value="NBC Universal Television Studio"/>
+			<App_Data App="VOD" Name="Studio_Code" Value="123"/>
+			<App_Data App="VOD" Name="Country_of_Origin" Value="US"/>
+			<App_Data App="VOD" Name="Licensing_Window_Start" Value="2006-09-27T00:00:01Z"/>
+			<App_Data App="VOD" Name="Licensing_Window_End" Value="2020-01-02T22:59:59Z"/>
+			<App_Data App="VOD" Name="Maximum_Viewing_Length" Value="00:48:00"/>
+			<App_Data App="VOD" Name="Suggested_Price" Value="5.99"/>
+			<App_Data App="VOD" Name="Episode_ID" Value="1/1"/>
+			<App_Data App="VOD" Name="Rating" Value="PG13"/>
+			<App_Data App="VOD" Name="X_Regional_Rating" Value="rating=FSK13;region=DEU"/>
+			<App_Data App="VOD" Name="X_Subtitle_Flag" Value="Y"/>
+			<App_Data App="VOD" Name="X_Audio_Description_Flag" Value="Y"/>
+			<App_Data App="VOD" Name="X_Exhibition_Date" Value="2006-09-25T16:00:00Z"/>
+			<App_Data App="VOD" Name="X_Credit" Value="role=actor;id=1;seq=1;name=Panettiere,Hayden"/>
+			<App_Data App="VOD" Name="X_Keyword" Value="superhero"/>
+			<App_Data App="VOD" Name="X_Keyword" Value="powers"/>
+			<App_Data App="VOD" Name="X_Keyword" Value="genesis"/>
+			<App_Data App="VOD" Name="X_Keyword" X_Lang="deu" Value="superheld"/>
+			<App_Data App="VOD" Name="X_Keyword" X_Lang="deu" Value="befugnisse"/>
+			<App_Data App="VOD" Name="X_Keyword" X_Lang="deu" Value="genese"/>
+			<App_Data App="VOD" Name="X_Star_Rating" Value="source=Rotten Tomatoes;rating=4.5"/>
+			<App_Data App="VOD" Name="X_Award" Value="award=Best Series;category=won;seq=1"/>
+			<App_Data App="VOD" Name="X_Provider_Code" Value="4000067293_144115188076432214"/>
+			<App_Data App="VOD" Name="X_Linked_Object" Value="type=Season;object=SE000000000001001;order=0"/>
+			<App_Data App="VOD" Name="X_CUTV_Event" Value="leadServiceKey=NBC;epgDateTime=2006-09-25T16:00:00Z;startDateTime=2006-09-25T16:00:00Z;endDateTime=2006-09-30T16:00:00Z;serviceKey=NBCAffiliate1;platform=STB"/>
+			<App_Data App="VOD" Name="X_Classification_Sched" Value="key=URN:ONDEMAND:SHOWS:NEW;startDateTime=2011-09-01T10:00:00Z;endDateTime=2011-09-08T23:59:59Z;orderNum=3"/>
+			<App_Data App="VOD" Name="X_Classification_Sched" Value="key=URN:ONDEMAND:SHOWS:SCIFI;startDateTime=2012-09-01T10:00:00Z;endDateTime=2012-09-08T23:59:59Z;"/>
+			<App_Data App="VOD" Name="X_Operator_Specific_Data" Value="namespace=special;data=true"/>
+			<App_Data App="VOD" Name="X_Operator_Specific_Data" Value="namespace=externallink;data=www.heroes.com"/>
+			<App_Data App="VOD" Name="X_Bookmark" Value="name=Recap End;type=recapOffsetBookmark;position=60"/>
+			<App_Data App="VOD" Name="X_Bookmark" Value="name=Opening Credits End;type=openingCreditsOffsetBookmark;position=240"/>
+			<App_Data App="VOD" Name="X_Bookmark" Value="name=Closing Credits Start;type=closingCreditsOffestBookmark;position=2700"/>
+		</Metadata>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Name="" Asset_ID="CSCO1200000001001001" Asset_Class="movie" Provider="CSCO" Provider_ID="cisco.com" Product="" Version_Minor="0" Version_Major="1" Description="" Creation_Date="2006-09-26"/>
+				<App_Data App="VOD" Name="Type" Value="movie"/>
+				<App_Data App="VOD" Name="Audio_Type" Value="DE"/>
+				<App_Data App="VOD" Name="Encoding_Type" Value="H.264"/>
+				<App_Data App="VOD" Name="HDContent" Value="Y"/>
+				<App_Data App="VOD" Name="Languages" Value="eng"/>
+				<App_Data App="VOD" Name="Languages" Value="deu"/>
+				<App_Data App="VOD" Name="Resolution" Value="4K"/>
+				<App_Data App="VOD" Name="Frame_Rate" Value="30"/>
+				<App_Data App="VOD" Name="Subtitle_Languages" Value="eng"/>
+				<App_Data App="VOD" Name="Subtitle_Languages" Value="deu"/>
+				<App_Data App="VOD" Name="Subtitle_Languages" Value="rus"/>
+				<App_Data App="VOD" Name="Screen_Format" Value="W"/>
+				<App_Data App="VOD" Name="X_Movie_Format" Value="UHD4K"/>
+				<App_Data App="VOD" Name="Encryption" Value="Y"/>
+				<App_Data App="VOD" Name="Content_FileSize" Value="1175193640"/>
+				<App_Data App="VOD" Name="Content_CheckSum" Value="63d0d75364f87c52b0165af1d28aadd1"/>
+				<App_Data App="VOD" Name="Rating" Value="18"/>
+				<App_Data App="VOD" Name="X_Break_Position" Value="300.000;599.900"/>
+				<App_Data App="VOD" Name="X_Break_Position" Value="1500.007;1800.007"/>
+				<App_Data App="VOD" Name="X_Break_Position" Value="2700.000"/>
+			</Metadata>
+			<Content Value="movie_heroes_genesis.ts"/>
+		</Asset>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Name="" Asset_ID="CSCO1300000001001001" Asset_Class="preview" Provider="CSCO" Provider_ID="cisco.com" Product="" Version_Minor="0" Version_Major="1" Description="" Creation_Date="2006-09-26" Verb=""/>
+				<App_Data App="VOD" Name="Type" Value="preview"/>
+				<App_Data App="VOD" Name="Run_Time" Value="00:00:48"/>
+				<App_Data App="VOD" Name="HDContent" Value="Y"/>
+				<App_Data App="VOD" Name="Languages" Value="eng"/>
+				<App_Data App="VOD" Name="Languages" Value="deu"/>
+				<App_Data App="VOD" Name="Resolution" Value="4K"/>
+				<App_Data App="VOD" Name="Frame_Rate" Value="30"/>
+				<App_Data App="VOD" Name="Subtitle_Languages" Value="eng"/>
+				<App_Data App="VOD" Name="Subtitle_Languages" Value="deu"/>
+				<App_Data App="VOD" Name="Subtitle_Languages" Value="rus"/>
+				<App_Data App="VOD" Name="Screen_Format" Value="W"/>
+				<App_Data App="VOD" Name="X_Movie_Format" Value="UHD4K"/>
+				<App_Data App="VOD" Name="Content_FileSize" Value="57709984"/>
+				<App_Data App="VOD" Name="Content_CheckSum" Value="80001123c722491e3fbd44468ec1cac5"/>
+				<App_Data App="VOD" Name="Rating" Value="PG"/>
+				<App_Data App="VOD" Name="Encoding_Type" Value="H.264"/>
+				<App_Data App="VOD" Name="Audio_Type" Value="DE"/>
+			</Metadata>
+			<Content Value="preview_heroes_genesis.ts"/>
+		</Asset>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Name="" Asset_ID="CSCO1400000001001001" Asset_Class="box cover" Provider="CSCO" Provider_ID="cisco.com" Product="" Version_Minor="0" Version_Major="1" Description="" Creation_Date="2006-09-26"/>
+				<App_Data App="VOD" Name="Type" Value="box cover"/>
+				<App_Data App="VOD" Name="Content_FileSize" Value="68330"/>
+				<App_Data App="VOD" Name="Content_CheckSum" Value="da13a80ff796151d9567f8af991bba2c"/>
+				<App_Data App="VOD" Name="Encoding_Type" Value="JPG"/>
+				<App_Data App="VOD" Name="Image_Aspect_Ratio" Value="233x319"/>
+			</Metadata>
+			<Content Value="boxcover_genesis.jpg"/>
+		</Asset>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Name="" Asset_ID="CSCO1600000001001001" Asset_Class="box cover" Provider="CSCO" Provider_ID="cisco.com" Product="" Version_Minor="0" Version_Major="1" Description="" Creation_Date="2006-09-26"/>
+				<App_Data App="VOD" Name="Type" Value="box cover"/>
+				<App_Data App="VOD" Name="Content_FileSize" Value="68331"/>
+				<App_Data App="VOD" Name="Content_CheckSum" Value="da13a80ff796151d9567f8af991bba2a"/>
+				<App_Data App="VOD" Name="Encoding_Type" Value="JPG"/>
+				<App_Data App="VOD" Name="Image_Aspect_Ratio" Value="233x319"/>
+				<App_Data App="VOD" Name="X_Language" Value="deu"/>
+			</Metadata>
+			<Content Value="boxcover_genesis_deu.jpg"/>
+		</Asset>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Name="" Asset_ID="CSCO1500000001001001" Asset_Class="poster" Provider="CSCO" Provider_ID="cisco.com" Product="" Version_Minor="0" Version_Major="1" Description="" Creation_Date="2006-09-26"/>
+				<App_Data App="VOD" Name="Type" Value="poster"/>
+				<App_Data App="VOD" Name="Content_FileSize" Value="125885"/>
+				<App_Data App="VOD" Name="Content_CheckSum" Value="97bd3bdefcdf310056825f82c418263a"/>
+				<App_Data App="VOD" Name="Encoding_Type" Value="JPG"/>
+				<App_Data App="VOD" Name="Image_Aspect_Ratio" Value="374x210"/>
+			</Metadata>
+			<Content Value="poster_genesis.jpeg"/>
+		</Asset>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Name="" Asset_ID="CSCO1700000001001001" Asset_Class="poster" Provider="CSCO" Provider_ID="cisco.com" Product="" Version_Minor="0" Version_Major="1" Description="" Creation_Date="2006-09-26"/>
+				<App_Data App="VOD" Name="Type" Value="poster"/>
+				<App_Data App="VOD" Name="Content_FileSize" Value="125887"/>
+				<App_Data App="VOD" Name="Content_CheckSum" Value="97bd3bdefcdf310056825f82c418263b"/>
+				<App_Data App="VOD" Name="Encoding_Type" Value="JPG"/>
+				<App_Data App="VOD" Name="Image_Aspect_Ratio" Value="374x210"/>
+				<App_Data App="VOD" Name="X_Language" Value="deu"/>
+			</Metadata>
+			<Content Value="poster_genesis_deu.jpeg"/>
+		</Asset>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Name="" Asset_ID="IMDB0000000000000001" Asset_Class="supporting-image" Provider="IMDB" Provider_ID="imdb.com" Product="" Version_Minor="0" Version_Major="1" Description="" Creation_Date="2006-09-26"/>
+				<App_Data App="VOD" Name="Type" Value="supporting-image"/>
+				<App_Data App="VOD" Name="Content_FileSize" Value="125888"/>
+				<App_Data App="VOD" Name="Content_CheckSum" Value="97bd3bdefcdf310056825f82c418263b"/>
+				<App_Data App="VOD" Name="Encoding_Type" Value="JPG"/>
+				<App_Data App="VOD" Name="Image_Aspect_Ratio" Value="240x320"/>
+				<App_Data App="VOD" Name="X_Usage" Value="credit"/>
+				<App_Data App="VOD" Name="X_Credit_Id" Value="1"/>
+			</Metadata>
+			<Content Value="Panettiere_Hayden_Red_Carpet.jpeg"/>
+		</Asset>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Name="" Asset_ID="" Asset_Class="offer-window" Provider="" Provider_ID="" Product="" Version_Minor="0" Version_Major="1" Description="" Creation_Date="2006-09-26"/>
+				<App_Data App="VOD" Name="Type" Value="offer-window"/>
+				<App_Data App="VOD" Name="Start" Value="2006-09-27T00:00:01Z"/>
+				<App_Data App="VOD" Name="Display_Expiry" Value=""/>
+				<App_Data App="VOD" Name="Expiry" Value="2007-01-31T00:00:00Z"/>
+				<App_Data App="VOD" Name="Offer_Type" Value="TVOD"/>
+				<App_Data App="VOD" Name="Catalogue" Value="cat=123;isPresentable=y;isPurchasable=y;isPlayable=y"/>
+				<App_Data App="VOD" Name="Catalogue" Value="cat=321;isPresentable=y;isPurchasable=n;isPlayable=y"/>
+				<App_Data App="VOD" Name="Catalogue" Value="cat=livetestcatalog;isPresentable=n;isPurchasable=n;isPlayable=y"/>
+				<App_Data App="VOD" Name="Product_Name" Value=""/>
+				<App_Data App="VOD" Name="Purchase_Offer_Id" Value="TVOD-HEROES-REG-123"/>
+				<App_Data App="VOD" Name="Usage_Type" Value=""/>
+				<App_Data App="VOD" Name="First_Viewing_Length" Value="2"/>
+				<App_Data App="VOD" Name="Library_Retention" Value="48"/>
+				<App_Data App="VOD" Name="Suggested_Price" Value="currency=USD;price=5.99"/>
+				<App_Data App="VOD" Name="Name" Value="New release"/>
+				<App_Data App="VOD" Name="Description" Value="watch heroes today"/>
+				<App_Data App="VOD" Name="Name" X_Lang="deu" Value="Neue Version"/>
+				<App_Data App="VOD" Name="Description" X_Lang="deu" Value="Helden heute anschauen"/>
+			</Metadata>
+		</Asset>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Name="" Asset_ID="" Asset_Class="offer-window" Provider="" Provider_ID="" Product="" Version_Minor="0" Version_Major="1" Description="" Creation_Date="2006-09-26"/>
+				<App_Data App="VOD" Name="Type" Value="offer-window"/>
+				<App_Data App="VOD" Name="Start" Value="2007-01-31T01:00:00Z"/>
+				<App_Data App="VOD" Name="Display_Expiry" Value=""/>
+				<App_Data App="VOD" Name="Expiry" Value="2020-01-31T00:00:00Z"/>
+				<App_Data App="VOD" Name="Offer_Type" Value="TVOD"/>
+				<App_Data App="VOD" Name="Catalogue" Value="cat=123;isPresentable=y;isPurchasable=y;isPlayable=y"/>
+				<App_Data App="VOD" Name="Catalogue" Value="cat=321;isPresentable=y;isPurchasable=n;isPlayable=y"/>
+				<App_Data App="VOD" Name="Catalogue" Value="cat=oldiesbutgoodies;isPresentable=y;isPurchasable=y;isPlayable=y"/>
+				<App_Data App="VOD" Name="Product_Name" Value=""/>
+				<App_Data App="VOD" Name="Purchase_Offer_Id" Value="TVOD-HEROES-OLD-123"/>
+				<App_Data App="VOD" Name="Usage_Type" Value=""/>
+				<App_Data App="VOD" Name="First_Viewing_Length" Value="48"/>
+				<App_Data App="VOD" Name="Library_Retention" Value="48"/>
+				<App_Data App="VOD" Name="Suggested_Price" Value="currency=USD;price=2.99"/>
+				<App_Data App="VOD" Name="Name" Value="Older Movies"/>
+				<App_Data App="VOD" Name="Description" Value="Relive the experience"/>
+				<App_Data App="VOD" Name="Name" X_Lang="deu" Value="Ältere Filme"/>
+				<App_Data App="VOD" Name="Description" X_Lang="deu" Value="Erleben Sie die Erfahrung"/>
+			</Metadata>
+		</Asset>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Name="" Asset_ID="" Asset_Class="offer-window" Provider="" Provider_ID="" Product="" Version_Minor="0" Version_Major="1" Description="" Creation_Date="2006-09-26"/>
+				<App_Data App="VOD" Name="Type" Value="offer-window"/>
+				<App_Data App="VOD" Name="Start" Value="2006-09-27T00:00:01Z"/>
+				<App_Data App="VOD" Name="Display_Expiry" Value="2019-01-31T00:00:00Z"/>
+				<App_Data App="VOD" Name="Expiry" Value="2020-01-31T00:00:00Z"/>
+				<App_Data App="VOD" Name="Offer_Type" Value="SVOD"/>
+				<App_Data App="VOD" Name="Catalogue" Value="cat=123;isPresentable=y;isPurchasable=n;isPlayable=y"/>
+				<App_Data App="VOD" Name="Catalogue" Value="cat=321;isPresentable=y;isPurchasable=n;isPlayable=y"/>
+				<App_Data App="VOD" Name="Catalogue" Value="cat=subscriptionsonly;isPresentable=y;isPurchasable=n;isPlayable=y"/>
+				<App_Data App="VOD" Name="Product_Name" Value="SVOD-GOLD"/>
+				<App_Data App="VOD" Name="Purchase_Offer_Id" Value="SVOD-GOLD"/>
+				<App_Data App="VOD" Name="Library_Retention" Value="48"/>
+				<App_Data App="VOD" Name="Name" Value="GOLD Subscription"/>
+				<App_Data App="VOD" Name="Description" Value="Watch any movie any time"/>
+				<App_Data App="VOD" Name="Name" X_Lang="deu" Value="GOLD-Abonnement"/>
+				<App_Data App="VOD" Name="Description" X_Lang="deu" Value="Schauen Sie sich jederzeit einen Film an"/>
+			</Metadata>
+		</Asset>
+		<Asset>
+			<Metadata>
+				<AMS Asset_Name="" Asset_ID="" Asset_Class="offer-window" Provider="" Provider_ID="" Product="" Version_Minor="0" Version_Major="1" Description="" Creation_Date="2006-09-26"/>
+				<App_Data App="VOD" Name="Type" Value="offer-window"/>
+				<App_Data App="VOD" Name="Start" Value="2001-01-27T00:00:01Z"/>
+				<App_Data App="VOD" Name="Expiry" Value="2020-01-31T00:00:00Z"/>
+				<App_Data App="VOD" Name="Offer_Type" Value="SVOD"/>
+				<App_Data App="VOD" Name="Product_Name" Value="SVOD-TSTV"/>
+				<App_Data App="VOD" Name="Purchase_Offer_Id" Value="SVOD-TSTV"/>
+				<App_Data App="VOD" Name="Usage_Type" Value="CUTV"/>
+				<App_Data App="VOD" Name="Library_Retention" Value="48"/>
+				<App_Data App="VOD" Name="Name" Value="TSTV"/>
+				<App_Data App="VOD" Name="Description" Value="Access to Catchup TV content"/>
+				<App_Data App="VOD" Name="Name" X_Lang="deu" Value="TSTV"/>
+				<App_Data App="VOD" Name="Description" X_Lang="deu" Value="Schauen Sie sich einen Film an"/>
+			</Metadata>
+		</Asset>
+	</Asset>
+</ADI>
